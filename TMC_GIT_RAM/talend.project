@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_9FgR8DtsEemrvuKvCrV9KQ" label="TMC_GIT_Ram" language="java" technicalLabel="TMC_GIT_RAM" author="_9FgR8TtsEemrvuKvCrV9KQ" productVersion="Talend Cloud Real-Time Big Data Platform-7.1.1.20181026_1147" url="{&quot;location&quot;:&quot;https://github.com/ramj3t/git-training-tmc&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_9IulEDtsEemrvuKvCrV9KQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_9FgR8TtsEemrvuKvCrV9KQ" login="rvaranasi@hka.talend.com" firstName="Ram" lastName="Varanasi" type="DQ"/>
+</xmi:XMI>
